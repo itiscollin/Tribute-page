@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@300&family=Roboto&family=Work+Sans&display=swap");
+main {
+  background-color: rgba(226, 226, 226, 0.767);
+
+  padding-bottom: 10px;
+}
+#timeline {
+  text-align: center;
+  font-family: "Work Sans", sans-serif;
+  font-size: 20px;
+}
+#back {
+  background-color: white;
+}
+#content {
+  text-align: justify;
+  margin-right: 25%;
+  margin-left: 25%;
+
+  padding: 120px;
+  padding-top: 20px;
+  font-size: 20px;
+  font-family: "Work Sans", sans-serif;
+}
+
+#img-div {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+#title {
+  background-color: white !important;
+  margin-top: 0px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+}
+#name {
+  background-color: white !important;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  font-family: "Work Sans", sans-serif;
+  font-size: 50px;
+}
+body {
+  background-color: white;
+}
+
+footer {
+  padding: 10px;
+  text-align: center;
+  margin-right: 15%;
+  margin-left: 15%;
+  font-family: "Work Sans", sans-serif;
+}
+#bottom {
+  background-color: #cfcfcf;
+}
+li {
+  margin: 25px;
+}
