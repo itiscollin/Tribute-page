@@ -57,6 +57,9 @@ footer {
 #bottom {
   background-color: #cfcfcf;
 }
+
 li {
   margin: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 200
 }
